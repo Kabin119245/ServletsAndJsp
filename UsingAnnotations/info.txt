@@ -1,0 +1,2 @@
+Same AddServlet and SquareServlet are implemented using Annotations
+using annotation it reduces the difficulty of using XML.
